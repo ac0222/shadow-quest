@@ -1,0 +1,5 @@
+Aggressive
+/assets/units/necromancer.png 
+Draelic
+140,30,400,0.25
+2069,510

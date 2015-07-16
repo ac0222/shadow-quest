@@ -1,0 +1,4 @@
+Player
+/assets/units/player.png
+100,26,600,0.25
+756,684

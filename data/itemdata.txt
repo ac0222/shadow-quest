@@ -1,0 +1,4 @@
+Amulet,Amulet of Vitality,965,3563,/assets/items/amulet.png
+Sword,Sword of Strength,4791,1253,/assets/items/sword.png
+Tome,Tome of Agility,546,6707,/assets/items/book.png
+Elixir,Elixir of Life,1976,402,/assets/items/elixir.png

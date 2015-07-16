@@ -1,0 +1,9 @@
+Prince,Prince Aldric,/assets/units/prince.png
+1,0,0,0
+467,679
+Healer,Elvira,/assets/units/shaman.png
+1,0,0,0
+738,549
+Peasant,Garth,/assets/units/peasant.png
+1,0,0,0
+756,870
